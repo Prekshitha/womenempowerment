@@ -1,0 +1,6 @@
+com\model\Contact.class
+com\controller\MyController.class
+com\service\MyServiceIntf.class
+com\dao\MydaoIntf.class
+com\dao\MydaoImpl.class
+com\service\MyServiceImpl.class
